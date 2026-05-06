@@ -1,11 +1,11 @@
-# 📊 Linear Regression – Student Performance Prediction
+#  Linear Regression – Student Performance Prediction
 
-## 📌 Objective
+##  Objective
 Build a linear regression model to predict student performance based on study habits and related features.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 **Features:**
 - Hours Studied
 - Previous Scores
@@ -18,7 +18,7 @@ Build a linear regression model to predict student performance based on study ha
 
 ---
 
-## ⚙️ Approach
+##  Approach
 
 1. Data preprocessing  
    - Handled categorical variable using one-hot encoding  
@@ -33,7 +33,7 @@ Build a linear regression model to predict student performance based on study ha
 
 ---
 
-## 📈 Results
+##  Results
 
 | Metric     | Value  |
 |------------|--------|
@@ -44,7 +44,7 @@ Build a linear regression model to predict student performance based on study ha
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 ### Actual vs Predicted
 - Strong linear alignment
@@ -58,7 +58,7 @@ Build a linear regression model to predict student performance based on study ha
 
 ---
 
-## 🧠 Model Interpretation
+##  Model Interpretation
 
 - **Hours Studied** → strongest positive impact  
 - **Previous Scores** → strong predictor  
@@ -68,7 +68,7 @@ Build a linear regression model to predict student performance based on study ha
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Install dependencies
 ```bash
