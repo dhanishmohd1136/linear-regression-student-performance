@@ -44,19 +44,6 @@ Build a linear regression model to predict student performance based on study ha
 
 ---
 
-##  Visualizations
-
-### Actual vs Predicted
-- Strong linear alignment
-- Indicates excellent model fit
-
-### Residual Plot
-- Random scatter around zero
-- Confirms:
-  - Linearity
-  - Homoscedasticity
-
----
 
 ##  Model Interpretation
 
